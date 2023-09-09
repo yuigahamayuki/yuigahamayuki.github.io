@@ -7,4 +7,11 @@
 >http://15462.courses.cs.cmu.edu/fall2020/&lt;/a>&lt;/p>
 &lt;p>Bilibili Video:
 &lt;a class="link" href="https://www.bilibili.com/video/BV1QZ4y1K7ga/?p=2&amp;amp;spm_id_from=pageDriver&amp;amp;vd_source=ec2fd9398961f7d85ec9902a56e368f0" target="_blank" rel="noopener"
->https://www.bilibili.com/video/BV1QZ4y1K7ga/?p=2&amp;spm_id_from=pageDriver&amp;vd_source=ec2fd9398961f7d85ec9902a56e368f0&lt;/a>&lt;/p></description></item><item><title>Search</title><link>https://example.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description/></item></channel></rss>
+>https://www.bilibili.com/video/BV1QZ4y1K7ga/?p=2&amp;spm_id_from=pageDriver&amp;vd_source=ec2fd9398961f7d85ec9902a56e368f0&lt;/a>&lt;/p>
+&lt;h1 id="test-image">Test Image&lt;/h1>
+&lt;p>&lt;img src="https://github.com/yuigahamayuki/ImageHost/blob/main/Images/Foundations_of_Computer_Graphics.png"
+loading="lazy"
+>&lt;/p>
+&lt;p>&lt;img src="https://raw.githubusercontent.com/yuigahamayuki/ImageHost/main/Images/uniformly_sample_directions_from_unit_hemisphere.png"
+loading="lazy"
+>&lt;/p></description></item><item><title>Search</title><link>https://example.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/search/</guid><description/></item></channel></rss>
